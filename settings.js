@@ -18,28 +18,28 @@ global.location = "Nalhati, Birbhum, WB,INDIA  " //ur location
 //new
 global.botname = '꧁﴿·⁎̩͙ ⁑̩͙̩͙ ⁂̩̩͙»✥«·-𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘-𝕭𝖔𝖙-·»✥«⁂̩̩͙͙ ⁑̩͙̩͙ ⁎̩͙.·﴾꧂' //ur bot name
 global.ownernumber = '22395064497' //ur owner number
-global.ownername = '꧁﴿☬✞ 𝔇𝔢𝔟𝔞𝔰𝔥𝔦𝔰 𝔇𝔢𝔶 ✞☬﴾꧂™' //ur owner name
+global.ownername = '𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎' //ur owner name
 global.websitex = "https://www.facebook.com/Debashi.Dey.X1/"
 global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
-global.themeemoji = '📌'
+global.themeemoji = '🩸'
 global.wm = "▂▃▅▇█▓▒░ 𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝖔𝖙 ░▒▓█▇▅▃▂ "
 global.botscript = 'https://github.com/DebashisX1/cheemsbot-v12' //script link
 global.packname = "Sticker By"
-global.author = "Debashis Dey\n\n+919339619072"
-global.creator = "919339619072@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["919339619072"] // Premium User
+global.author = "𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎\n\n+22495064497"
+global.creator = "22395064497@s.whatsapp.net"
+global.xprefix = '!'
+global.premium = ["22395064497"] // Premium User
 global.hituet = 0
 //bot sett
 global.typemenu = 'v10' // menu type 'v1' => 'v10'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '' //set anti foreign number country code
-global.welcome = true //welcome/left in groups
-global.anticall = true //bot blocks user when called
-global.autoswview = true //auto status/story view
-global.adminevent = true //show promote/demote message
-global.groupevent = true //show update messages in group chat
+global.welcome = false //welcome/left in groups
+global.anticall = false //bot blocks user when called
+global.autoswview = false //auto status/story view
+global.adminevent = false //show promote/demote message
+global.groupevent = false //show update messages in group chat
 //msg
 global.mess = {
 	limit: 'Your limit is up!',
