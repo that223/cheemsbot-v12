@@ -18,14 +18,14 @@ global.location = "Nalhati, Birbhum, WB,INDIA  " //ur location
 //new
 global.botname = 'CheemsBot bot V12' //ur bot name
 global.ownernumber = '22897669189' //ur owner number
-global.ownername = '𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎' //ur owner name
+global.ownername = '༺⇴⦼𝐎𝐍𝐋𝐘 ⧉ 𝐁𝐋𝐀𝐂𝐊ↈ༻𝛭𝑅 𝐷𝛯𝛥𝑇𝛨 𝑅𝛩𝑌𝛥𝐿' //ur owner name
 global.websitex = "https://www.facebook.com/Debashi.Dey.X1/"
 global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
 global.themeemoji = '🩸'
-global.wm = "▂▃▅▇█▓▒░ 𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝖔𝖙 ░▒▓█▇▅▃▂ "
+global.wm = "༺⇴⦼𝐎𝐍𝐋𝐘 ⧉ 𝐁𝐋𝐀𝐂𝐊ↈ༻𝛭𝑅 𝐷𝛯𝛥𝑇𝛨 𝑅𝛩𝑌𝛥𝐿"
 global.botscript = 'https://github.com/DebashisX1/cheemsbot-v12' //script link
 global.packname = "Sticker By"
-global.author = "𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎\n\n+22897669189"
+global.author = "༺⇴⦼𝐎𝐍𝐋𝐘 ⧉ 𝐁𝐋𝐀𝐂𝐊ↈ༻𝛭𝑅 𝐷𝛯𝛥𝑇𝛨 𝑅𝛩𝑌𝛥𝐿\n\n+22897669189"
 global.creator = "22897669189@s.whatsapp.net"
 global.xprefix = '!'
 global.premium = ["22897669189"] // Premium User
