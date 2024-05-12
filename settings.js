@@ -27,7 +27,7 @@ global.botscript = 'https://github.com/DebashisX1/cheemsbot-v12' //script link
 global.packname = "Sticker By"
 global.author = "༺⇴⦼𝐎𝐍𝐋𝐘 ⧉ 𝐁𝐋𝐀𝐂𝐊ↈ༻𝛭𝑅 𝐷𝛯𝛥𝑇𝛨 𝑅𝛩𝑌𝛥𝐿\n\n+22897669189"
 global.creator = "22897669189@s.whatsapp.net"
-global.xprefix = '!'
+global.xprefix = '.'
 global.premium = ["22897669189"] // Premium User
 global.hituet = 0
 //bot sett
